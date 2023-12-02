@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper 4-bit Adam has been accepted to NeurIPS 23 as a Spotlight
+Our paper 4-bit Adam has been accepted to NeurIPS'23 as a Spotlight

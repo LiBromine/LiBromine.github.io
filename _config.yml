@@ -275,7 +275,7 @@ scholar:
   last_name: [Li]
   first_name: [Bingrui]
 
-  style: https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-author-date.csl
+  style: apa
   locale: en
 
   source: /_bibliography/
