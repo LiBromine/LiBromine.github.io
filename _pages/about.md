@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student, <a href='https://ml.cs.tsinghua.edu.cn/'>TSAIL Group</a>, <a href='https://www.tsinghua.edu.cn/en/index.htm'>Tsinghua University</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # image: prof_pic.jpg
+  # image_circular: false # crops the image to make it circular
+  # more_info: >
+  #   <p>FIT 1-508</p>
+  #   <p>Tsinghua University</p>
+  #   <p>Haidian  District, Beijing, 100084, P. R. China</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
