@@ -4,7 +4,8 @@ title: about
 permalink: /
 subtitle: >
   Ph.D. student, <a href='https://ml.cs.tsinghua.edu.cn/'>TSAIL Group</a>, <a href='https://www.tsinghua.edu.cn/en/index.htm'>Tsinghua University</a>.<br/>
-  Email: lbr22 at mails dot tsinghua dot edu dot com
+  Email: lbr22 at mails dot tsinghua dot edu dot com<br/>
+#  <a href="assets/pdf/CV_bingrui.pdf" target="_blank"><b>Curriculum Vitae</b></a>
 
 profile:
   align: right
@@ -30,7 +31,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am a second-year Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, advised by [Prof. Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/). 
 I got my Bachelor degree in Computer Science and Technology, and Pure and Applied Mathematics (second degree), at Tsinghua University in 2022.
 
-My research interests include machine learning systems, graph mining systems and high performance computing.
+My research interests include machine learning.
 
 ----
 
