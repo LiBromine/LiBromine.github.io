@@ -2,21 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student, <a href='https://ml.cs.tsinghua.edu.cn/'>TSAIL Group</a>, <a href='https://www.tsinghua.edu.cn/en/index.htm'>Tsinghua University</a>.
+subtitle: Ph.D. student, <a href='https://ml.cs.tsinghua.edu.cn/'>TSAIL Group</a>, <a href='https://www.tsinghua.edu.cn/en/index.htm'>Tsinghua University</a>.
 
 profile:
-  align: right
-  # image: prof_pic.jpg
-  # image_circular: false # crops the image to make it circular
+  align: left
+  image: head_bingrui.jpg
+  image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>FIT 1-508</p>
   #   <p>Tsinghua University</p>
   #   <p>Haidian  District, Beijing, 100084, P. R. China</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
