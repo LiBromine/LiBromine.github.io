@@ -33,12 +33,3 @@ I got my Bachelor degree in Computer Science and Technology, and Pure and Applie
 
 My research interests include machine learning.
 
-----
-
-##### News
-
-- news1
-- news2
-
-
-----
