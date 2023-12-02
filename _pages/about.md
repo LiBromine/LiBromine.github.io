@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >
   Ph.D. student, <a href='https://ml.cs.tsinghua.edu.cn/'>TSAIL Group</a>, <a href='https://www.tsinghua.edu.cn/en/index.htm'>Tsinghua University</a>.<br/>
-  Email: lbr22 at mails dot tsinghua dot edu dot com<br/>
+  Email: lbr22 at mails dot tsinghua dot edu dot cn<br/>
 #  <a href="assets/pdf/CV_bingrui.pdf" target="_blank"><b>Curriculum Vitae</b></a>
 
 profile:
