@@ -9,7 +9,7 @@ subtitle: >
 
 profile:
   align: right
-  image: head_bingrui.jpg
+  image: head2_bingrui.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
   #   <p>FIT 1-508</p>
@@ -31,5 +31,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 I am a second-year Ph.D. student in the Department of Computer Science and Technology at Tsinghua University, advised by [Prof. Jianfei Chen](https://ml.cs.tsinghua.edu.cn/~jianfei/). 
 I got my Bachelor degree in Computer Science and Technology, and Pure and Applied Mathematics (second degree), at Tsinghua University in 2022.
 
-My research interests include machine learning.
+My research interests include:
+- understanding practical phenomena observed in deep learning with theoretical and empirical methods
+- efficient machine learning
 
